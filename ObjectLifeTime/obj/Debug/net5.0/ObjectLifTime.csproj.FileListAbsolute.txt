@@ -1,0 +1,15 @@
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/ObjectLifTime/bin/Debug/net5.0/ObjectLifTime.deps.json
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/ObjectLifTime/bin/Debug/net5.0/ObjectLifTime.runtimeconfig.json
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/ObjectLifTime/bin/Debug/net5.0/ObjectLifTime.runtimeconfig.dev.json
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/ObjectLifTime/bin/Debug/net5.0/ObjectLifTime.dll
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/ObjectLifTime/bin/Debug/net5.0/ref/ObjectLifTime.dll
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/ObjectLifTime/bin/Debug/net5.0/ObjectLifTime.pdb
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/ObjectLifTime/obj/Debug/net5.0/ObjectLifTime.csproj.AssemblyReference.cache
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/ObjectLifTime/obj/Debug/net5.0/ObjectLifTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/ObjectLifTime/obj/Debug/net5.0/ObjectLifTime.AssemblyInfoInputs.cache
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/ObjectLifTime/obj/Debug/net5.0/ObjectLifTime.AssemblyInfo.cs
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/ObjectLifTime/obj/Debug/net5.0/ObjectLifTime.csproj.CoreCompileInputs.cache
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/ObjectLifTime/obj/Debug/net5.0/ObjectLifTime.dll
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/ObjectLifTime/obj/Debug/net5.0/ref/ObjectLifTime.dll
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/ObjectLifTime/obj/Debug/net5.0/ObjectLifTime.pdb
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/ObjectLifTime/obj/Debug/net5.0/ObjectLifTime.genruntimeconfig.cache

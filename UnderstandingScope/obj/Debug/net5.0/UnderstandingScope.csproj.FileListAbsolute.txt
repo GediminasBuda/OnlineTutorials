@@ -1,0 +1,15 @@
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/UnderstandingScope/bin/Debug/net5.0/UnderstandingScope.deps.json
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/UnderstandingScope/bin/Debug/net5.0/UnderstandingScope.runtimeconfig.json
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/UnderstandingScope/bin/Debug/net5.0/UnderstandingScope.runtimeconfig.dev.json
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/UnderstandingScope/bin/Debug/net5.0/UnderstandingScope.dll
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/UnderstandingScope/bin/Debug/net5.0/ref/UnderstandingScope.dll
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/UnderstandingScope/bin/Debug/net5.0/UnderstandingScope.pdb
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/UnderstandingScope/obj/Debug/net5.0/UnderstandingScope.csproj.AssemblyReference.cache
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/UnderstandingScope/obj/Debug/net5.0/UnderstandingScope.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/UnderstandingScope/obj/Debug/net5.0/UnderstandingScope.AssemblyInfoInputs.cache
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/UnderstandingScope/obj/Debug/net5.0/UnderstandingScope.AssemblyInfo.cs
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/UnderstandingScope/obj/Debug/net5.0/UnderstandingScope.csproj.CoreCompileInputs.cache
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/UnderstandingScope/obj/Debug/net5.0/UnderstandingScope.dll
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/UnderstandingScope/obj/Debug/net5.0/ref/UnderstandingScope.dll
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/UnderstandingScope/obj/Debug/net5.0/UnderstandingScope.pdb
+/Users/gediminasbuda/Documents/BIT/OnlineTutorials/ObjectLifTime/UnderstandingScope/obj/Debug/net5.0/UnderstandingScope.genruntimeconfig.cache
